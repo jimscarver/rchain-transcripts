@@ -1,5 +1,6 @@
 ## Welcome To Rchain Transcripts
 
+[Debrief29](Debrief29.html)
 Watch this space for transcripts from RCHAIN DEBRIEFS
 
 

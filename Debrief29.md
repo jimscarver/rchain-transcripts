@@ -79,6 +79,7 @@ https://youtu.be/mHnACqYhlig?t=4670
 
 Raw transcript follows. Needs proofreading.
 
+```
 1:19 Christian I think Ed's going to join us
 1:22 as well so I'll wait before we get
 1:30 started
@@ -1589,3 +1590,4 @@ Raw transcript follows. Needs proofreading.
 
 Streamed live on Jun 14, 2017
 Rchain Community Debrief 29
+```
